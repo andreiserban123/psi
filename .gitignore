@@ -1,2 +1,5 @@
 *.vpp.lck
 *.vpp.bak_*
+.vpprefdata
+tmp/
+.lock
